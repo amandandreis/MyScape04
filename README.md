@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @MyScape04
+- 👋 Hi, I’m Amanda.
 - 👀 I’m interested in informatics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any basic project
+- 🌱 I’m currently learning python and cybersecurity. 
 - 📫 How to reach me amandaandreis04@gmail.com
 
 <!---
